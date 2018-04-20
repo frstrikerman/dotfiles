@@ -1,0 +1,31 @@
+! do not scroll with output
+URxvt*scrollTtyOutput: false
+
+! scroll in relation to buffer (with mouse scroll or Shift+Page Up)
+URxvt*scrollWithBuffer: true
+
+! scroll back to the bottom on keypress
+URxvt*scrollTtyKeypress: true
+
+URxvt.secondaryScreen: 1
+URxvt.secondaryScroll: 0
+URxvt.secondaryWheel: 1
+URxvt.perl-ext-common:      default,clipboard,url-select,keyboard-select,resize-font
+URxvt.url-select.launcher:  firefox
+URxvt.url-select.underline: true
+URxvt.keysym.M-u:           perl:url-select:select_next
+URxvt.keysym.M-Escape:      perl:keyboard-select:activate
+URxvt.keysym.M-s:           perl:keyboard-select:search
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+
+!transparancy 
+!true
+urxvt*depth: 32
+urxvt*background: rgba:0000/0000/0200/c800
+!fake
+!urxvt*transparent: true
+!urxvt*shading: 30
+URxvt.scrollBar: False
+URxvt.font: xft:DejaVuSansMono Nerd Font Mono:size=11
+

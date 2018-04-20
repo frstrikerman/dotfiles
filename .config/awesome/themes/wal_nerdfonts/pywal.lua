@@ -1,0 +1,1 @@
+/home/desartij/.cache/wal/colors.lua
