@@ -1,13 +1,15 @@
 # dotfiles
-##info
-Editor : nvim
-WM : awesome wm
-Distro : arch
-Terminal emulator : urxvt
-Shell : zsh (with grml zsh config)
-colors : wal
-wallpaper : VA-11 HALL-A
-fonts : nerd fonts
+## Screenshot
+![alt text](https://raw.githubusercontent.com/frstrikerman/dotfiles/master/screenshot.png")
+## info
+- Editor : nvim
+- WM : awesome wm
+- Distro : arch
+- Terminal emulator : urxvt
+- Shell : zsh (with grml zsh config)
+- colors : wal
+- wallpaper : VA-11 HALL-A
+- fonts : nerd fonts
 
 ### awesome
 - lain (https://github.com/lcpz/lain)
