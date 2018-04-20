@@ -1,6 +1,6 @@
 # dotfiles
 ## Screenshot
-![alt text](https://raw.githubusercontent.com/frstrikerman/dotfiles/master/screenshot.png")
+![screenshot](https://raw.githubusercontent.com/frstrikerman/dotfiles/master/screenshot.png)
 ## info
 - Editor : nvim
 - WM : awesome wm
