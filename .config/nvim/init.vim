@@ -18,6 +18,7 @@ call plug#begin('~/.vim/plugged')
   Plug 'SirVer/ultisnips'
   Plug 'honza/vim-snippets'
   Plug 'majutsushi/tagbar'
+  Plug 'ryanoasis/vim-devicons'
   Plug 'dylanaraps/wal.vim'
 call plug#end()
 set statusline+=%#warningmsg#

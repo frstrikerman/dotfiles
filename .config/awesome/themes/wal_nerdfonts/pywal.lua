@@ -1,1 +1,1 @@
-/home/desartij/.cache/wal/colors.lua
+/home/striker/.cache/wal/colors.lua

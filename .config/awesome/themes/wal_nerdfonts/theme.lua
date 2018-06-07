@@ -159,6 +159,8 @@ mpdicon:buttons(my_table.join(
         theme.mpd.update()
     end)))
 theme.mpd = lain.widget.mpd({
+    host="192.169.1.29",
+    port="6600",
     settings = function()
         if mpd_now.state == "play" then
             artist = " " .. mpd_now.artist .. " "

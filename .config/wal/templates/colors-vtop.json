@@ -1,0 +1,33 @@
+{{
+	"name": "wal",
+	"author": "wal",
+	"title": {{
+		"fg": "{color4}"	
+	}},
+	"chart": {{
+		"fg": "#66D9EF",
+		"border": {{
+			"type": "line",
+			"fg": "{color1}"
+		}}
+	}},
+	"table": {{
+		"fg": "fg",
+		"items": {{
+			"selected": {{
+				"bg": "{color2}",
+				"fg": "fg"
+			}},
+			"item": {{
+				"fg": "fg"
+			}}
+		}},
+		"border": {{
+			"type": "line",
+			"fg": "{color1}"
+		}}
+	}},
+	"footer": {{
+		"fg": "fg"
+	}}
+}}
